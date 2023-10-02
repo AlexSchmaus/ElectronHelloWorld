@@ -1,0 +1,15 @@
+{
+  "name": "electronhelloworld",
+  "version": "0.1.0",
+  "description": "Playing around with Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Schmaus",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^26.2.4"
+  }
+}
